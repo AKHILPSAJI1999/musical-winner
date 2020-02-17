@@ -1,4 +1,3 @@
 hello
 nice
-weather
-play
+cricket
